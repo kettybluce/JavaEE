@@ -7,6 +7,9 @@
     <groupId>com.ketty.javaee</groupId>
     <artifactId>javaee</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>reflect-study</module>
+    </modules>
     <version>1.0</version>
 
     <build>
