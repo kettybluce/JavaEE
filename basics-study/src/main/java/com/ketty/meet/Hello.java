@@ -1,0 +1,1 @@
+package com.ketty.meet;/** * @Author ketty bluce * @Create 2023/9/5 * @description * @Version 1.0 */public class Hello {    public static void main(String[] args) {        Hello hello = new Hello();    }}
